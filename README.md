@@ -1,1 +1,1 @@
-# HDSC-Winter-22
+This repository includes codes of tag along projects of HDSC Winter'22
